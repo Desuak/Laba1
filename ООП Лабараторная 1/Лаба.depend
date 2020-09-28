@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1601236451 source:c:\users\lenovo\desktop\Попытка\figura.cpp
+
+1601239499 source:c:\users\lenovo\desktop\Попытка\menu.c
+
+1601301369 source:c:\users\lenovo\desktop\Попытка\main.cpp
+	"Fugura.h"
+	"Tree.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1601302145 c:\users\lenovo\desktop\Попытка\fugura.h
+	<iostream>
+	<string>
+	<cmath>
+
+1601281973 c:\users\lenovo\desktop\Попытка\tree.h
+	<iostream>
+	<string>
+	<cmath>
+
+1601301369 source:c:\users\lenovo\desktop\ООП Лабараторная 1\main.cpp
+	"Fugura.h"
+	"Tree.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1601308585 c:\users\lenovo\desktop\ООП Лабараторная 1\fugura.h
+	<iostream>
+	<string>
+	<cmath>
+
+1601281973 c:\users\lenovo\desktop\ООП Лабараторная 1\tree.h
+	<iostream>
+	<string>
+	<cmath>
+
