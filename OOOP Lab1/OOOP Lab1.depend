@@ -1,0 +1,210 @@
+# depslib dependency file v1.0
+1606761796 source:c:\users\lenovo\desktop\ООП Лабараторная 1\main.cpp
+	"Fugura.h"
+	"Triangle.h"
+	"Square.h"
+	"Nkyt.h"
+	"Trap.h"
+	"Rectangle.h"
+	"Romb.h"
+	"Tree.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606760452 c:\users\lenovo\desktop\ООП Лабараторная 1\fugura.h
+	<iostream>
+	<string>
+	<cmath>
+
+1606758701 c:\users\lenovo\desktop\ООП Лабараторная 1\tree.h
+	<iostream>
+	<string>
+	<cmath>
+
+1601822559 c:\users\lenovo\desktop\ООП Лабараторная 1\treygolnik.h
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1601822465 c:\users\lenovo\desktop\ООП Лабараторная 1\kvadrat.h
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606758741 c:\users\lenovo\desktop\ООП Лабараторная 1\nkyt.h
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606758741 c:\users\lenovo\desktop\ООП Лабараторная 1\rectangle.h
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606758740 c:\users\lenovo\desktop\ООП Лабараторная 1\romb.h
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606758739 c:\users\lenovo\desktop\ООП Лабараторная 1\triangle.h
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606758740 c:\users\lenovo\desktop\ООП Лабараторная 1\square.h
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1602490528 c:\users\lenovo\desktop\ООП Лабараторная 1\sircle.h
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606761371 c:\users\lenovo\desktop\ООП Лабараторная 1\trap.h
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606762489 source:c:\users\lenovo\desktop\ООП Лабараторная 1 — копия\main.cpp
+	"Menu.h"
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606763280 c:\users\lenovo\desktop\ООП Лабараторная 1 — копия\menu.h
+	"Fugura.h"
+	"Triangle.h"
+	"Square.h"
+	"Nkyt.h"
+	"Trap.h"
+	"Rectangle.h"
+	"Romb.h"
+	"Tree.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606760452 c:\users\lenovo\desktop\ООП Лабараторная 1 — копия\fugura.h
+	<iostream>
+	<string>
+	<cmath>
+
+1606758739 c:\users\lenovo\desktop\ООП Лабараторная 1 — копия\triangle.h
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606758740 c:\users\lenovo\desktop\ООП Лабараторная 1 — копия\square.h
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606758741 c:\users\lenovo\desktop\ООП Лабараторная 1 — копия\nkyt.h
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606761371 c:\users\lenovo\desktop\ООП Лабараторная 1 — копия\trap.h
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606758741 c:\users\lenovo\desktop\ООП Лабараторная 1 — копия\rectangle.h
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606758740 c:\users\lenovo\desktop\ООП Лабараторная 1 — копия\romb.h
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606758701 c:\users\lenovo\desktop\ООП Лабараторная 1 — копия\tree.h
+	<iostream>
+	<string>
+	<cmath>
+
+1606762489 source:c:\users\lenovo\desktop\ooop lab1\main.cpp
+	"Menu.h"
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606763280 c:\users\lenovo\desktop\ooop lab1\menu.h
+	"Fugura.h"
+	"Triangle.h"
+	"Square.h"
+	"Nkyt.h"
+	"Trap.h"
+	"Rectangle.h"
+	"Romb.h"
+	"Tree.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606760452 c:\users\lenovo\desktop\ooop lab1\fugura.h
+	<iostream>
+	<string>
+	<cmath>
+
+1606758739 c:\users\lenovo\desktop\ooop lab1\triangle.h
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606758740 c:\users\lenovo\desktop\ooop lab1\square.h
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606758741 c:\users\lenovo\desktop\ooop lab1\nkyt.h
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606761371 c:\users\lenovo\desktop\ooop lab1\trap.h
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606758741 c:\users\lenovo\desktop\ooop lab1\rectangle.h
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606758740 c:\users\lenovo\desktop\ooop lab1\romb.h
+	"Fugura.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1606758701 c:\users\lenovo\desktop\ooop lab1\tree.h
+	<iostream>
+	<string>
+	<cmath>
+
